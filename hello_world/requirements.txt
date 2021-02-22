@@ -1,0 +1,8 @@
+requests
+numpy
+aws-psycopg2
+SQLAlchemy
+snowflake-sqlalchemy
+sqlalchemy-redshift
+chardet==3.0.4
+pytz==2020.5
